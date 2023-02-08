@@ -1,0 +1,12 @@
+.container {
+  background-color: white;
+  color: crimson;
+  font-size: 20px;
+  text-align: center;
+  justify-content: center;
+  margin: 10px;
+  
+}
+.cart-box li {
+  list-style-type: none;
+}
